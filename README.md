@@ -27,6 +27,13 @@
 * [Player list interface]
 
 
+## Скачивание проекта:
+Для успешного получения всех файлов проекта я использовал Git LFS. Чтобы подгрузить "затрэканные" файлы, используйте Git Bash со следующей командой:
+
+```sh
+git lfs get
+```
+
    [Create and join]: <https://youtu.be/TcmTDqnQiYc>
    [Environment]: <https://youtu.be/F4ECwmRzRkM>
    [Killing system]: <https://youtu.be/K22N9YlpfZo>
